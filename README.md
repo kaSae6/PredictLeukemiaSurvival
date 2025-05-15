@@ -1,8 +1,8 @@
-# [Your Project Title Here]
+# [Overall Survival Prediction for patients diagnosed with Myeloid Leukemia]
 
 ## Repository Link
 
-[https://github.com/your_username/your_project_name]
+[https://github.com/kaSae6/PredictLeukemiaSurvival]
 
 ## Description
 
