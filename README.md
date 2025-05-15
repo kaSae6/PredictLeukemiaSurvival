@@ -1,8 +1,8 @@
-# [Overall Survival Prediction for patients diagnosed with Myeloid Leukemia]
+# Overall Survival Prediction for patients diagnosed with Myeloid Leukemia
 
 ## Repository Link
 
-[https://github.com/kaSae6/PredictLeukemiaSurvival]
+https://github.com/kaSae6/PredictLeukemiaSurvival
 
 ## Description
 
