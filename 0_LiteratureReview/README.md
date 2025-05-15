@@ -12,9 +12,10 @@ Approaches or solutions that have been tried before on similar projects.
   - **Outcomes**: DNN had the highest accuracy of 85.56% (While the DNN model showed superior accuracy in external validation, it did not consistently achieve the highest performance across all evaluation metrics).
   - **Relation to the Project**: Uses patient data to predict cancer survival; uses multiple different feature selection methods, different and many different models.
 
-- **Source 2**: [Title of Source 2]
+- **Source 2**: A novel perspective on survival prediction for AML patients: Integration of machine learning in SEER database applications!
 
-  - **[Link]()**
+  - **[Link]()** https://pmc.ncbi.nlm.nih.gov/articles/PMC11795080/
+
   - **Objective**:
   - **Methods**:
   - **Outcomes**:
