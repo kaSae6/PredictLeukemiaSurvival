@@ -28,7 +28,7 @@ The covered 11 models were: XGBoost classifier, cross-validated glmnet classifie
 The random forest classifier algorithm showed the best performance for the prediction of survival of 1, 2 and 3 years on multiple evaluation metrics. Additionally, the used neural network classifier and the XGBoost classifier had shown high reliability as well as accuracy at each prediction stage respectively.
 
 
-  - **Relation to the Project**: Relation to the Project**: The process of the establishment of a machine learning model to predict the survival of AML patients might be beneficial to the Project, as the goal is the development of a neural network - model to predict the overall survival of a very similar, but smaller and more recent dataset of AML patients.
+  - **Relation to the Project**: The process of the establishment of a machine learning model to predict the survival of AML patients might be beneficial to the Project, as the goal is the development of a neural network - model to predict the overall survival of a very similar, but smaller and more recent dataset of AML patients.
 
 
 - **Source 3**: [dentification of relevant features using SEQENS to improve supervised machine learning models predicting AML treatment outcome]
