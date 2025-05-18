@@ -38,7 +38,7 @@ The random forest classifier algorithm showed the best performance for the predi
   - **Methods**: To evaluate machine learning models that predict the risk of complications in AML Patients after 90 days, 6 months and 1 year after diagnosis, the dataset of 568 patients was used. For each time point, an enhanced SEQENS feature selection version was applied. Afterwards, 4 classifiers, including the XGBoost, Multi-Layer Perceptron, Logistic Regression and Decision Tree were used to evaluate the impact of feature selection on model performance.
 After training, the models were evaluated with an external dataset of 54 AML patients.
 
-  - **Outcomes**: After the identification of different features with Age, TP53, − 7/7Q, and EZH2 that showed consistent relevance for each prediction horizon,the evaluation of the models showed a stable or improved performance after the appliance of the SEQENS feature selection.
+  - **Outcomes**: After the identification of different features with Age, TP53, − 7/7Q, and EZH2 that showed consistent relevance for each prediction horizon, the evaluation of the models showed a stable or improved performance after the appliance of the SEQENS feature selection.
 
   - **Relation to the Project**: The conducted methods, specifically the showed improvements of model -performance after the applied feature- selection algorithm highlights the importance of (medical-) field expertise as well as in-depth exploration of the (clinical-) parameters covered in the datasets as the application field of medical and life sciences affect an extremely vulnerable group. This hints to an thorough approacht to our dataset and the possibility to integrate similar algorithms.
 
