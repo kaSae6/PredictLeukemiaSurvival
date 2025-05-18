@@ -33,7 +33,7 @@ The random forest classifier algorithm showed the best performance for the predi
 
 - **Source 3**: [dentification of relevant features using SEQENS to improve supervised machine learning models predicting AML treatment outcome]
 
-  - **[Link]((https://link.springer.com/article/10.1186/s12911-025-03001-y)**
+  - **[Link](https://link.springer.com/article/10.1186/s12911-025-03001-y)**
   - **Objective**: The evaluation of the selection methodology based on SEQENS, an algorithm for the identification of relevant variables, beside the validation of machine learning models that predict the risk of complications and to develop an assistive tool for clinicians in therapeutic decision-making.
   - **Methods**: To evaluate machine learning models that predict the risk of complications in AML Patients after 90 days, 6 months and 1 year after diagnosis the dataset of 568 patients was used. For each time point, an enhanced SEQENS feature selection version was applied. Afterwards, 4 classifiers, including the XGBoost, Multi-Layer Perceptron, Logistic Regression and Decision Tree were used to evaluate the impact of feature selection on model performance.
 After training, the models were evaluated with an external dataset of 54 AML patients.
