@@ -1,0 +1,48 @@
+* [33m7f421a4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m fixed the model(s) summary
+[31m|[m * [33mf655075[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m accepted
+[31m|[m * [33mb09a8c0[m accept changes
+[31m|[m * [33ma58a81e[m notebook commit
+[31m|[m[31m/[m  
+* [33m455e109[m fixed markdown cells
+* [33m3d30a46[m tried to fix the table of content, unsucessful
+* [33m0830de8[m regression and random forest as baseline models
+* [33m64a0625[m added an if statement to check if the features and target variables are in the datasets
+* [33m868a114[m Kaplan meyer survival
+* [33mef767a9[m added codes to plot the feature distributions, possible biases, and correlation plots
+* [33m4e88a4b[m impute missing values (imputed datasets saved as .csv)
+* [33md1c0027[m download the data and check the missing values
+* [33m01e7c70[m data exploration template
+* [33m287e37a[m fixed typos
+* [33mc66019b[m Rename README.md NEWAdded Source3 and Source2 revisioned to README.md
+* [33me2373f9[m Update README.md Description
+*   [33m983ce7e[m Merge pull request #3 from theDatascientista/main
+[33m|[m[34m\[m  
+[33m|[m * [33m720d58c[m complete run of notebook after several installations and imports
+[33m|[m * [33m82faf11[m Import all libraries and directories
+[33m|[m[33m/[m  
+* [33md8cfda7[m Add files via upload
+* [33mc26aabf[m Delete ChallengeData/MelissaNotebook
+* [33m1db9381[m Delete ChallengeData/Benchmark_nqBJ7fO.ipynb
+* [33mc38a473[m Add files via upload
+* [33m6c03a88[m Add files via upload
+* [33m115164d[m Delete ChallengeData/X_test directory
+* [33m6640e13[m Add files via upload
+* [33m15901b0[m Create xtest1
+* [33m7f4b035[m Add files via upload
+* [33m3e191c3[m Create MelissaNotebook
+*   [33mc464c19[m Merge pull request #2 from theDatascientista/main
+[35m|[m[36m\[m  
+[35m|[m * [33m3402ca6[m Update and rename README.md Added Source3 and Source2 revisioned to README.md NEWAdded Source3 and Source2 revisioned
+[35m|[m[35m/[m  
+*   [33mf74dd4c[m Merge pull request #1 from theDatascientista/main
+[1;31m|[m[1;32m\[m  
+[1;31m|[m * [33m947c0f5[m complete recreation after formatting issues Update README.md
+[1;31m|[m * [33m6666a30[m recreation 1 after formatting issueUpdate README.md
+* [1;32m|[m [33m61810e2[m Update and rename README.md to README.md Added Source3 and Source2 revisioned
+* [1;32m|[m [33m5914a64[m Update README.md Source 2
+* [1;32m|[m [33m5e603fa[m Update README.md
+* [1;32m|[m [33m12f0987[m source 1 completed
+* [1;32m|[m [33m7576ce6[m Update README.md
+* [1;32m|[m [33m4f36116[m Update README.md
+[1;32m|[m[1;32m/[m  
+* [33m85be153[m Initial commit
