@@ -18,7 +18,7 @@ The Survival analysis describes a time-to event regression problem which is diff
 The provided dataset included information  of a time variable and event-indicator for each Patient, which means the survived time from receiving diagnosis until death, or the last time of a check-up appointment when alive.  This created the problem of different states (Event: alive or dead), together with survival-time and other possible covariates as blood work data to create a prediction of survival. 
 
 After thorough Analysis, we approached this problem naively with a linear regression, which meant to only include patients with the event of "death" since linear regression can't handle censoring.
-Further methods were chosen especially to to examine right-censored data, included non-parametric Kaplan-Meier Survival probability, semi-parametric cox proportional hazard,as well as a deep-cox model.
+Further methods were chosen especially to to examine right-censored data, included non-parametric Kaplan-Meier Survival probability, semi-parametric cox proportional hazard,as well as a random forest and deep-cox model.
 
 
 
