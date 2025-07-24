@@ -8,6 +8,15 @@ https://github.com/kaSae6/PredictLeukemiaSurvival
 
 [Short project description here. Briefly summarize the problem you are trying to solve and the approach you're taking.]
 
+Project description:Survival Analysis
+
+The dataset from [https://challengedata.ens.fr/challenges/162]
+ , was a Challenge for the prediction of the Overall Survival of Cancer Patientx with Acute Myeloid Leukemia. One of the main goals was to predict the overall survival of AML-patients with Methods of the field of Survival Analysis.
+The Survival analysis describes a time-to event regression problem which is different to a regular regression due to "censoring", which means that the provided dataset included information about the survived time from diagnosis to death or the last time of a check-up appointment when alive. This creates the problem of different states ( Event: alive or dead), together with survival time and other possible covariates as blood work data to create a prediction of survival.
+After thorough Analysis, wee approached this problem naively with a linear regression, which meant to only include patients with the event of "death" since linear regression can't handle censoring.
+
+
+
 ### Task Type
 
 [Image Classification / Chatbot / Regression / Clustering / Other]
