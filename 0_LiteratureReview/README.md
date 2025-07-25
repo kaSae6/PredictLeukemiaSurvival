@@ -4,9 +4,8 @@ Approaches or solutions that have been tried before on similar projects.
 
 **Summary of Each Work**:
 
-- **Source 1**: [Application of machine learning in breast cancer survival prediction using a multimethod approach]
+- **Source 1**: [Application of machine learning in breast cancer survival prediction using a multimethod approach](https://www.nature.com/articles/s41598-024-81734-y!)
 
-  - **[Link](https://www.nature.com/articles/s41598-024-81734-y!)**
   - **Objective**:To create a machine learning model aiding clinicians in breast cancer survival prediction, which can help optimise the medical decisions and improve disease prognosis.
 
   - **Methods**:**Deep Neural Network** and **11 conventional Machine Learning** methods. Feature selection: Initially, modeling was executed using all features, which were chosen based on a review of relevant articles. Subsequently, features were selected based on a two-tailed p-value criterion (< 0.05) using scikit-learn. Lastly, features were chosen through a questionnaire completed by five oncologists. A total of **34 features** were  selected. The data used for the models was collected from **2644 patients**. 80% of the data was used for training the models. For the DNN, The Neural Architecture Search method, a technique in deep learning for automatically exploring optimal neural network architectures, was applied. Hyperparameters were adjusted following this exploration. To determine the optimal architecture and set hyperparameters, the Autokeras library was utilized.
@@ -15,9 +14,8 @@ Approaches or solutions that have been tried before on similar projects.
   - **Relation to the Project**: Uses patient data to predict cancer survival; uses multiple different feature selection methods, different and many different models.
 
 
-- **Source 2**: [A novel perspective on survival prediction for AML patients: Integration of machine learning in SEER database applications]
+- **Source 2**: [A novel perspective on survival prediction for AML patients: Integration of machine learning in SEER database applications](https://pmc.ncbi.nlm.nih.gov/articles/PMC11795080)
 
-  - **[Link](https://pmc.ncbi.nlm.nih.gov/articles/PMC11795080)**
   - **Objective**:To establish a model for prognosis- prediction of  acute myeloid leukemia (AML) patients while exploring the epidemiological characteristics based on the SEER database to obtain insights to clinical and demographic prognosis -influencing features.
 
   - **Methods**: The approach to integrate traditional survival analysis with machine learning  with large-scale clinical data of a total of 87,090 AML patients between 1975 and 2019 was conducted after statistical analysis of independent factors that influenced the overall survival. Then, 11 machine learning algorithms as well as five-fold cross-validation with 20 cycles of each model were used in order of prediction- accuracy improvement.
@@ -31,9 +29,8 @@ The random forest classifier algorithm showed the best performance for the predi
   - **Relation to the Project**: Relation to the Project**: The process of the establishment of a machine learning model to predict the survival of AML patients might be beneficial to the Project, as the goal is the development of a neural network - model to predict the overall survival of a very similar, but smaller and more recent dataset of AML patients.
 
 
-- **Source 3**: [dentification of relevant features using SEQENS to improve supervised machine learning models predicting AML treatment outcome]
+- **Source 3**: [Identification of relevant features using SEQENS to improve supervised machine learning models predicting AML treatment outcome](https://link.springer.com/article/10.1186/s12911-025-03001-y)
 
-  - **[Link](https://link.springer.com/article/10.1186/s12911-025-03001-y)**
   - **Objective**: The evaluation of the selection methodology based on SEQENS, an algorithm for the identification of relevant variables, beside the validation of machine learning models that predict the risk of complications and to develop an assistive tool for clinicians in therapeutic decision-making.
   - **Methods**: To evaluate machine learning models that predict the risk of complications in AML Patients after 90 days, 6 months and 1 year after diagnosis the dataset of 568 patients was used. For each time point, an enhanced SEQENS feature selection version was applied. Afterwards, 4 classifiers, including the XGBoost, Multi-Layer Perceptron, Logistic Regression and Decision Tree were used to evaluate the impact of feature selection on model performance.
 After training, the models were evaluated with an external dataset of 54 AML patients.
