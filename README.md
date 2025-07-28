@@ -27,9 +27,9 @@ Time-to-event regression
 
 ### Results Summary
 
-- **Best Model:** [Name of the best-performing model]
-- **Evaluation Metric:** [e.g., Accuracy, F1-Score, MSE]
-- **Result:** [e.g., 95% accuracy, F1-score of 0.8]
+- **Best Model:** Random Forest according to RMSE and MAE scores, Deep cox according to the C-Index
+- **Evaluation Metric:** MAE, RMSE, C-Index
+- **Result:** Deep Cox C-Index = 0.73
 
 ## Documentation
 
@@ -37,7 +37,7 @@ Time-to-event regression
 2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
 3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
 4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation.ipynb)**
-5. **[Presentation](4_Presentation/README.md)**
+5. **[Presentation](4_Presentation/Survival_Analysis_Saegner_Muszelewski​.pdf)**
 
 ## Cover Image
 
