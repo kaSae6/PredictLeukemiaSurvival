@@ -1,9 +1,5 @@
 # Dataset Characteristics
 
-## Overview
-
-In this milestone, you are required to explore and analyze the dataset you are using for your project. Understanding your dataset is a critical component of any machine learning project.  
-Utilize statistical graphics, plots, and information tables to summarize the dataset's main characteristics.
 
 ## Challenge Data 
 
