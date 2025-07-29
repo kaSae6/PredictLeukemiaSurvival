@@ -41,4 +41,4 @@ Time-to-event regression
 
 ## Cover Image
 
-![Project Cover Image](CoverImage/cover_image.png)
+![Project Cover Image](https://github.com/kaSae6/PredictLeukemiaSurvival/blob/main/CoverImage/cover_image.png)
