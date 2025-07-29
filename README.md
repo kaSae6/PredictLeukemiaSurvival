@@ -33,11 +33,11 @@ Time-to-event regression
 
 ## Documentation
 
-1. **[Literature Review](0_LiteratureReview/README.md)**
-2. **[Dataset Characteristics](1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
-3. **[Baseline Model](2_BaselineModel/baseline_model.ipynb)**
-4. **[Model Definition and Evaluation](3_Model/model_definition_evaluation.ipynb)**
-5. **[Presentation](4_Presentation/Survival_Analysis_Saegner_Muszelewski​.pdf)**
+1. **[Literature Review](https://github.com/kaSae6/PredictLeukemiaSurvival/blob/main/0_LiteratureReview/README.md)**
+2. **[Dataset Characteristics](https://github.com/kaSae6/PredictLeukemiaSurvival/blob/main/1_DatasetCharacteristics/exploratory_data_analysis.ipynb)**
+3. **[Baseline Model](https://github.com/kaSae6/PredictLeukemiaSurvival/blob/main/2_BaselineModel/baseline_model.ipynb)**
+4. **[Model Definition and Evaluation](https://github.com/kaSae6/PredictLeukemiaSurvival/blob/main/3_Model/model_definition_evaluation.ipynb)**
+5. **[Presentation](https://github.com/kaSae6/PredictLeukemiaSurvival/blob/main/4_Presentation/Survival_Analysis_Saegner_Muszelewski​.pdf)**
 
 ## Cover Image
 
